@@ -5,7 +5,7 @@ Este projeto é um trabalho acadêmico da disciplina de Banco de Dados. O objeti
 Com ele, é possível controlar clientes com pagamentos pendentes, identificar veículos que necessitam de manutenção e registrar o histórico das manutenções realizadas.
 
 ## Tecnologias
-MySQL
+- MySQL
 
 ## Funcionalidades
 
