@@ -1,12 +1,11 @@
-# LocadoraVeiculos
+##LocadoraVeiculos
 
-Este projeto é um trabalho academico da materia de banco de dados onde o objetivo era desenvolver um banco de dados para uma locadora de veiculos onde permite
-gerenciar e facilitar e organizar algumas funçoes como quais clientes estao com o pagamento pendente quais veiculos precisa de manutençao e quais manutençoes foram necessaria ser realizadas.
+Este projeto é um trabalho acadêmico da disciplina de Banco de Dados. O objetivo foi desenvolver um banco de dados para uma locadora de veículos, permitindo gerenciar e organizar informações importantes da empresa.
 
-## Tecnologias
+Com ele, é possível controlar clientes com pagamentos pendentes, identificar veículos que necessitam de manutenção e registrar o histórico das manutenções realizadas.
 
-MYsql
-
-## Autor
+##Tecnologias
+MySQL
+##Autor
 
 Felipe Correa dos Santos
